@@ -1,7 +1,3 @@
-Here is a ready-to-use **README.md** content for your GitHub repository.
-
-You can copy-paste this entire text into your `README.md` file.
-
 ```markdown
 # Windows Recon – Local Enumeration Tool
 
@@ -149,28 +145,4 @@ Feel free to open issues or pull requests if you want to:
 ## License
 
 [MIT License](LICENSE) – do whatever you want, but please keep the educational / ethical disclaimer.
-
-**Happy (and legal) hacking!** 🛡️
-```
-
-### Quick tips before uploading to GitHub
-
-1. Create an empty repository named e.g. `windows-recon` or `win-recon-tool`
-2. Put `win_recon.py` + this `README.md` inside
-3. Create `requirements.txt` with these lines:
-
-```
-psutil
-requests
-colorama
-wmi
-```
-
-4. (Optional nice-to-have)
-   - Add a simple `LICENSE` file with MIT content
-   - Take 2–3 screenshots (menu + report) and put them in `/screenshots/` folder
-   - Reference them in README with `![Menu](screenshots/menu.png)`
-
-Good luck with the repo — if you publish it, feel free to share the link later and I can suggest small improvements based on real GitHub look & feel.
-
-Any section you want to change / add / make more serious / more casual? 😄
+/ add / make more serious / more casual? 😄
